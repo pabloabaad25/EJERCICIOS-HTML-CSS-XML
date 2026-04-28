@@ -1,0 +1,43 @@
+h1 {
+    background-color: #4A90E2;
+    color: white;
+    font-family: Impact;
+    font-size: 36px;
+    text-align: center;
+    padding: 20px;
+}
+
+p {
+    background-color: #ffffff;
+    color: #333333;
+    font-family: Verdana;
+    font-size: 18px;
+    line-height: 1.6;
+    padding: 15px;
+}
+
+.llista_estelitzada {
+    background-color: #e8f4fd;
+    font-family: 'Helvetica';
+    font-size: 16px;
+    color: #2c3e50;
+    padding: 20px;
+    list-style-type: square;
+}
+
+.ordenat {
+    background-color: #fff3cd;
+    font-family: 'Courier New', monospace;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.imatge-exemple {
+    background-color: #333;
+    padding: 10px;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
