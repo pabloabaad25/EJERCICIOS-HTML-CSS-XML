@@ -1,0 +1,37 @@
+biblioteca {
+    display: block;
+    background-color: #D3D3D3; 
+    padding: 15px;
+    width: 350px;
+    border: 1px solid #000;
+    font-family: Arial, sans-serif;
+}
+
+llibre {
+    display: block;
+    margin-bottom: 15px;
+    border: 1px solid #000;
+}
+
+titol {
+    display: block;
+    background-color: #FFFFFF;
+    padding: 2px 5px;
+    font-weight: bold;
+    font-size: 14px;
+    border-bottom: 1px solid #000; 
+}
+
+autor {
+    display: block;
+    background-color: #99FF99; 
+    padding: 2px 5px;
+    font-size: 13px;
+}
+
+datapublicacio {
+    display: block;
+    background-color: #99FF99;
+    padding: 0px 5px 5px 5px;
+    font-size: 13px;
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="CSS - Exercici 1 - Paràgrafs.css"?>
+<biblioteca>
+  <llibre>
+    <titol>La vida está en otra parte</titol>
+    <autor>Milan Kundera</autor>
+    <datapublicacio>1973</datapublicacio>
+  </llibre>
+  <llibre>
+    <titol>Pantaleón y las visitadoras</titol>
+    <autor>Mario Vargas Llosa</autor>
+    <datapublicacio>1973</datapublicacio>
+  </llibre>
+  <llibre>
+    <titol>Conversación en la catedral</titol>
+    <autor>Mario Vargas Llosa</autor>
+    <datapublicacio>1969</datapublicacio>
+  </llibre>
+</biblioteca>
